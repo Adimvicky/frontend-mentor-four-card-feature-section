@@ -81,8 +81,8 @@ body {
 .card {
 	border-top-width : 5px;
 	border-top-style:  solid;
-	padding: 4rem 2rem;
-	box-shadow: 0 3rem 2rem var(--color-grey-light);
+	padding: 3rem 2rem;
+	box-shadow: 0 1rem 2rem rgba(0,0,0,.1);
 	border-radius: .5rem;
 	max-width: 28rem;
 
