@@ -24,12 +24,13 @@ body {
 	font-size: 1.5rem;
 	font-family: 'Poppins',sans-serif;
 	color : var(--color-blue-dark);
+	background-color: var(--color-grey-light);
 }
 
 /* LAYOUT */
 
 .container {
-	padding: 3rem 5rem;
+	padding: 5rem 5rem;
 }
 .heading {
 	text-align: center;
@@ -82,6 +83,7 @@ body {
 
 /* COMPONENTS */
 .card {
+	background-color: #fff;
 	border-top-width : 5px;
 	border-top-style:  solid;
 	padding: 3rem 2rem;
